@@ -3,7 +3,7 @@ class Data_Basa():
     @staticmethod
     def data_basa(quer, type):
         database = db.connect(
-            database = "bot_1",
+            database = "n37",
             user = "postgres",
             host = "localhost",
             password = "rus19tam98"
